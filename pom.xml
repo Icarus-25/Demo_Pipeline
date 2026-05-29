@@ -15,8 +15,9 @@
     </properties>
     <distributionManagement>
         <repository>
-            <id>Demo_Pipeline</id>
-            <url>https://github.com/Icarus-25/Demo_Pipeline.git</url>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/Icarus-25/Demo_Pipeline</url>
         </repository>
     </distributionManagement>
 
