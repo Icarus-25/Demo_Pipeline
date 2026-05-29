@@ -13,5 +13,11 @@
         <maven.compiler.target>25</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <distributionManagement>
+        <repository>
+            <id>Demo_Pipeline</id>
+            <url>https://github.com/Icarus-25/Demo_Pipeline.git</url>
+        </repository>
+    </distributionManagement>
 
 </project>
